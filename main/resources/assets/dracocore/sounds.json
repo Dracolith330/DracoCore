@@ -1,0 +1,16 @@
+{
+	
+	
+"lexiconOpen": 
+	{ 
+		"category": "master", 
+		"sounds":["lexiconOpen"] 
+	},
+	
+"lexiconPage": 
+	{ 
+		"category": "master", 
+		"sounds":["lexiconPage"] 
+	}
+
+}

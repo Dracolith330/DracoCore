@@ -1,0 +1,28 @@
+[
+{
+  
+"modid": "DracoCore",
+  
+"name": "Draconic Embrace",
+  
+"description": "Delve into not only magic but also technology, and eventually discover how to combine the two.",
+  
+"version": "1.0",
+  
+"mcversion": "1.7.10",
+  
+"url": "",
+  
+"updateUrl": "",
+  
+"authorList": ["Draco330"],
+  
+"credits": "The Forge and FML guys, for making minecraft forge.",
+  
+"logoFile": "",
+  
+"screenshots": [],
+  
+"dependencies": []
+}
+]
